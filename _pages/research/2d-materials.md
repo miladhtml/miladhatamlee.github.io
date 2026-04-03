@@ -4,6 +4,8 @@ title: "2D Materials: Thermal and Mechanical Behavior"
 permalink: /research/2d-materials/
 author_profile: true
 ---
+[← Back to Research]({{ '/research/' | relative_url }})
+
 
 ## Overview
 
