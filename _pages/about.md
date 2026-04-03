@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-# Seyed Milad Hatamlee
+
 
 I am a Ph.D. candidate in Mechanical Engineering at the University at Buffalo, specializing in molecular simulations of fluid transport and phase behavior in nanoconfined systems. My research focuses on understanding the fundamental mechanisms governing CO₂ transport, water flow in nanochannels, and thermodynamic behavior in porous media relevant to energy applications.
 
