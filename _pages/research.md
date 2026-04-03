@@ -2,46 +2,39 @@
 layout: single
 title: "Research"
 permalink: /research/
+author_profile: true
 ---
 
 ## Research Overview
 
-My research focuses on molecular-level understanding of fluid transport and phase behavior in nanoconfined systems, with applications in energy systems such as CO₂ transport, adsorption, and multiphase flow in porous media. I combine molecular simulations with thermodynamic modeling to develop predictive insights into nanoscale transport phenomena.
+My research focuses on molecular simulations of fluid transport and phase behavior in nanoconfined systems, with applications in energy systems, carbon storage, and advanced materials. I combine molecular dynamics, Monte Carlo methods, and thermodynamic modeling to study transport, adsorption, and equilibrium behavior at the nanoscale.
 
 ---
 
-## Current Research
-
-### Molecular Simulation of Confined CO₂ and Hydrocarbon Mixtures
-- Developed Monte Carlo (GCMC/GEMC) simulations for phase behavior of confined CO₂/hydrocarbon systems  
-- Integrated simulations with modified Peng–Robinson Equation of State (EoS)  
-- Improved prediction accuracy of phase equilibrium under confinement  
-
----
+## Research Areas
 
 ### Water and CO₂ Transport in Nanochannels
-- Performed Molecular Dynamics (MD) simulations using LAMMPS  
-- Investigated deviations from classical continuum models (Poiseuille flow)  
-- Quantified the effect of surface chemistry on flow behavior  
+Molecular dynamics simulations of nanoscale flow in silica nanochannels with varying surface chemistries. This work investigates deviations from classical continuum behavior and the role of interfacial interactions.
+
+[Read more →](/miladhatamlee.github.io/research/nanochannel-flow/)
 
 ---
 
-### Adsorption and Transport in Porous Materials (Zeolite 13X)
-- Modeled adsorption behavior of CO₂ and water in nanoporous materials  
-- Identified confinement-driven deviations from bulk thermodynamics  
-- Studied coupled transport and adsorption mechanisms  
+### Confined Phase Behavior of CO₂/Hydrocarbon Mixtures
+Monte Carlo simulations and thermodynamic modeling of phase equilibrium under nanoscale confinement, including development of modified equations of state.
+
+[Read more →](/miladhatamlee.github.io/research/confined-phase/)
 
 ---
 
-## Previous Research
+### Adsorption and Transport in Zeolite 13X
+Molecular simulation of CO₂ and water behavior in nanoporous materials, focusing on adsorption mechanisms and confined transport phenomena.
 
-### 2D Materials and Thermal Transport
-- Investigated mechanical and thermal properties of 2D materials using MD  
-- Established structure–property relationships  
-- Published multiple first-author papers  
+[Read more →](/miladhatamlee.github.io/research/zeolite-13x/)
 
 ---
 
-### Machine Learning for Interatomic Potentials
-- Developed ML-based interatomic potentials  
-- Reduced prediction error in thermal conductivity models  
+### 2D Materials: Thermal and Mechanical Behavior
+Molecular dynamics studies of thermal transport and mechanical properties in 2D materials, including graphene polymorphs, MXenes, and phosphorene.
+
+[Read more →](/miladhatamlee.github.io/research/2d-materials/)
