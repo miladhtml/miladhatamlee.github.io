@@ -1,11 +1,12 @@
 ---
 layout: single
-title: "About"
+title: 
 permalink: /
 author_profile: true
 ---
 
 # Seyed Milad Hatamlee
+Computational Researcher in Molecular Simulations & Energy Systems  
 Ph.D. Candidate in Mechanical Engineering  
 University at Buffalo
 
