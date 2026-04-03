@@ -31,7 +31,7 @@ This research focuses on understanding thermal transport and mechanical behavior
 - Quantified interfacial thermal resistance using molecular dynamics simulations  
 - Analyzed the role of lattice mismatch and vibrational coupling  
 
-![Interface heat transfer](../images/interface_itr.png)
+![Interface heat transfer](../images/interface_itr.TIF)
 
 *Illustration of heat transfer across a 2D material interface.*
 
@@ -57,7 +57,8 @@ This research focuses on understanding thermal transport and mechanical behavior
 - Analyzed tensile and shear response along different crystallographic directions  
 - Identified directional dependence of strength and deformation mechanisms  
 
-![Phosphorene structure](../images/phosphorene.png)
+![Phosphorene structure](../images/phos_final_tensile.mp4)
+![Phosphorene structure](../images/phoss_final_shear.mp4)
 
 *Structure of black phosphorene showing anisotropic bonding directions.*
 
