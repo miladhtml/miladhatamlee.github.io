@@ -4,6 +4,7 @@ title: "Confined Phase Behavior of CO₂/Hydrocarbon Mixtures"
 permalink: /research/confined-phase/
 author_profile: true
 ---
+[← Back to Research]({{ '/research/' | relative_url }})
 
 ## Overview
 
