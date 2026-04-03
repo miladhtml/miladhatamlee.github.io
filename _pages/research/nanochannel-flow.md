@@ -4,6 +4,7 @@ title: "Water and CO₂ Transport in Silica Nanochannels"
 permalink: /research/nanochannel-flow/
 author_profile: true
 ---
+[← Back to Research]({{ '/research/' | relative_url }})
 
 ## Overview
 
