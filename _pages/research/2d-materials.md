@@ -47,7 +47,7 @@ This research focuses on understanding thermal transport and mechanical behavior
 - Investigated stress–strain response and structural stability  
 - Identified key parameters controlling mechanical strength  
 
-![MXene structure](../images/mxene_structure.png)
+![MXene structure](../images/mxene_structure.png.png)
 
 *Atomic structure of MXene materials used in simulations.*
 
