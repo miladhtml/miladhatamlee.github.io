@@ -33,7 +33,7 @@ This research focuses on understanding thermal transport and mechanical behavior
 - Quantified interfacial thermal resistance using molecular dynamics simulations  
 - Analyzed the role of lattice mismatch and vibrational coupling  
 
-![Interface heat transfer](../images/interface_itr.TIF)
+![Interface heat transfer](../images/interface_itr.png)
 
 *Illustration of heat transfer across a 2D material interface.*
 
