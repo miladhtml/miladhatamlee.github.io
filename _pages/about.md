@@ -1,5 +1,11 @@
+---
+layout: single
+title: "About"
+permalink: /
+author_profile: true
+---
+
 # Seyed Milad Hatamlee
-[📄 CV](#) | [📚 Publications](#) | [📬 Contact](#)
 Ph.D. Candidate in Mechanical Engineering  
 University at Buffalo
 
