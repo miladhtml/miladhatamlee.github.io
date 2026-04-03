@@ -59,8 +59,14 @@ This research focuses on understanding thermal transport and mechanical behavior
 - Analyzed tensile and shear response along different crystallographic directions  
 - Identified directional dependence of strength and deformation mechanisms  
 
+<video controls width="900">
+  <source src="{{ '../images/phos_final_tensile.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 <video autoplay loop muted playsinline width="800">
-  <source src="{{ '/images/phos_final_tensile.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '../images/phos_final_tensile.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
