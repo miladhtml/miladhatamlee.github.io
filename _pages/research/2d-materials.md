@@ -66,13 +66,13 @@ This research focuses on understanding thermal transport and mechanical behavior
 
 
 <video autoplay loop muted playsinline width="800">
-  <source src="{{ '../images/phos_final_tensile.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '_pages/images/phoss_final_shear.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 
 <video autoplay loop muted playsinline width="800">
-  <source src="{{ '../images/phoss_final_shear.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '_pages/images/phoss_final_shear.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
