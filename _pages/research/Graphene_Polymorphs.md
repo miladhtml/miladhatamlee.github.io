@@ -24,7 +24,10 @@ This research focuses on understanding thermal transport and mechanical behavior
 
 ![TPG structures](../images/TPG.jpg)
 
-<img src="{{ '/images/TPG.gif' | relative_url }}" alt="Graphene polymorph animation" width="500">
+![TPG structure](../images/TPG.gif)
+
+<img src="../images/TPG.gif">
+
 ---
 
 ## Related Publications
