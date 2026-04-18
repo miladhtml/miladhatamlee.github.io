@@ -18,7 +18,7 @@ Molecular dynamics simulations of nanoscale flow in silica nanochannels with var
 
 ![Water and CO₂ transport in nanochannels]({{ '/images/Flow.png' | relative_url }})
 
-[Read more →](/miladhatamlee.github.io/research/nanochannel-flow/)
+[Read more →]({{ '/research/nanochannel-flow/' | relative_url }})
 
 ---
 
@@ -27,7 +27,7 @@ Monte Carlo simulations and thermodynamic modeling of phase equilibrium under na
 
 ![Graphene structures](./images/binary.png)
 
-[Read more →](/miladhatamlee.github.io/research/confined-phase/)
+[Read more →]({{ '/research/confined-phase/' | relative_url }})
 
 ---
 
@@ -36,7 +36,7 @@ Molecular simulation of CO₂ and water behavior in nanoporous materials, focusi
 
 ![Graphene structures](./images/Zeolite.png)
 
-[Read more →](/miladhatamlee.github.io/research/zeolite-13x/)
+[Read more →]({{ '/research/zeolite-13x/' | relative_url }})
 
 ---
 
