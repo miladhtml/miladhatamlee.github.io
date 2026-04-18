@@ -45,7 +45,7 @@ Thermal conductivity and the mechanical properties of graphene polymorphs and co
 
 ![Graphene structures](./images/graphene_structures.png)
 
-[Read more →](/miladhatamlee.github.io/research/2d-materials/)
+[Read more →](/miladhatamlee.github.io/research/Graphene_Polymorphs/)
 
 
 ---
@@ -55,7 +55,7 @@ Probing the mechanical behaviors of titanium nitride and carbide MXenes employin
 
 ![Graphene structures](./images/mxene_structure.png)
 
-[Read more →](/miladhatamlee.github.io/research/2d-materials/)
+[Read more →](/miladhatamlee.github.io/research/MXene_Structures/)
 
 ---
 
@@ -64,7 +64,7 @@ Tuning shear mechanical properties and tensile strength anisotropy of monolayer 
 
 ![Graphene structures](./images/2Dphos.png)
 
-[Read more →](/miladhatamlee.github.io/research/2d-materials/)
+[Read more →](/miladhatamlee.github.io/research/2D_Phos/)
 
 ---
 
@@ -73,4 +73,4 @@ Lattice-dynamics-based descriptors for the Interfacial Thermal Conductance (ITC)
 
 ![Graphene structures](./images/interface_itr.png)
 
-[Read more →](/miladhatamlee.github.io/research/2d-materials/)
+[Read more →](/miladhatamlee.github.io/research/2D_Hetero/)
