@@ -24,9 +24,8 @@ This research focuses on understanding thermal transport and mechanical behavior
 
 ![TPG structures](../images/TPG.jpg)
 
-![TPG structure](../images/TPG.gif)
+    ![TPG structure](../images/TPG.gif)
 
-<img src="../images/TPG.gif">
 
 ---
 
