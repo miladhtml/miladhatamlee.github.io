@@ -16,7 +16,7 @@ My research focuses on molecular simulations of fluid transport and phase behavi
 ### Water and CO₂ Transport in Nanochannels
 Molecular dynamics simulations of nanoscale flow in silica nanochannels with varying surface chemistries. This work investigates deviations from classical continuum behavior and the role of interfacial interactions.
 
-![Graphene structures](./images/Flow.png)
+![Water and CO₂ transport in nanochannels]({{ '/images/Flow.png' | relative_url }})
 
 [Read more →](/miladhatamlee.github.io/research/nanochannel-flow/)
 
