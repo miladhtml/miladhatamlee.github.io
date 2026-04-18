@@ -16,7 +16,7 @@ My research focuses on molecular simulations of fluid transport and phase behavi
 ### Water and CO₂ Transport in Nanochannels
 Molecular dynamics simulations of nanoscale flow in silica nanochannels with varying surface chemistries. This work investigates deviations from classical continuum behavior and the role of interfacial interactions.
 
-![Water and CO₂ transport in nanochannels]({{ '/images/Flow.png' | relative_url }})
+![Water and CO₂ transport in nanochannels](./images/Flow.png)
 
 [Read more →]({{ '/research/nanochannel-flow/' | relative_url }})
 
@@ -45,8 +45,7 @@ Thermal conductivity and the mechanical properties of graphene polymorphs and co
 
 ![Graphene structures](./images/graphene_structures.png)
 
-[Read more →](/miladhatamlee.github.io/research/Graphene_Polymorphs/)
-
+[Read more →]({{ '/research/Graphene_Polymorphs/' | relative_url }})
 
 ---
 
@@ -55,7 +54,7 @@ Probing the mechanical behaviors of titanium nitride and carbide MXenes employin
 
 ![Graphene structures](./images/mxene_structure.png)
 
-[Read more →](/miladhatamlee.github.io/research/MXene_Structures/)
+[Read more →]({{ '/research/MXene_Structures/' | relative_url }})
 
 ---
 
@@ -64,7 +63,7 @@ Tuning shear mechanical properties and tensile strength anisotropy of monolayer 
 
 ![Graphene structures](./images/2Dphos.png)
 
-[Read more →](/miladhatamlee.github.io/research/2D_Phos/)
+[Read more →]({{ '/research/2D_Phos/' | relative_url }})
 
 ---
 
@@ -73,4 +72,4 @@ Lattice-dynamics-based descriptors for the Interfacial Thermal Conductance (ITC)
 
 ![Graphene structures](./images/interface_itr.png)
 
-[Read more →](/miladhatamlee.github.io/research/2D_Hetero/)
+[Read more →]({{ '/research/2D_Hetero/' | relative_url }})
