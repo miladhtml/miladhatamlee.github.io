@@ -15,20 +15,19 @@ This research focuses on understanding thermal transport and mechanical behavior
 
 ## Graphene Polymorphs and Carbon-Based Structures
 
-- Investigated thermal conductivity across various graphene-derived lattices  
-- Identified strong dependence of thermal transport on lattice structure and bonding  
-- Established structure–property relationships governing heat conduction  
+-Investigated thermal conductivity across various graphene-derived lattices
+-Identified strong dependence of thermal transport on lattice structure and bonding
+-Established structure–property relationships governing heat conduction​
 
-![Graphene structures](../images/graphene_structures.png)
+![Graphene structures](../images/Barchart.png)
 
-*Representative graphene-based structures used for thermal transport analysis.*
+
+![TPG structures](../images/TPG.jpg)
+
+<img src="../images/TPG.gif" alt="Description of animation" width="500">
 
 ---
 
 ## Related Publications
 
-**Hatamlee, S.M.**, et al.  
-*Thermal conductivity of graphene polymorphs and compounds*  
-Carbon (2020)
-
-Additional related works include studies on machine learning interatomic potentials and thermal transport modeling.
+Hatam-Lee SM, Rajabpour A, Volz S. Thermal conductivity of graphene polymorphs and compounds: From C3N to graphdiyne lattices. Carbon. 2020 May 1;161:816-26.
