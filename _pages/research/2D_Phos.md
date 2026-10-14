@@ -1,56 +1,28 @@
 ---
 layout: single
-title: "2D Black Phosphorene"
+title: "Mechanical Behavior of Black Phosphorene"
 permalink: /research/2D_Phos/
 author_profile: true
 ---
+
 [← Back to Research]({{ '/research/' | relative_url }})
 
+I investigated the directional dependence of tensile and shear behavior in monolayer black phosphorene using molecular dynamics.
 
-## Overview
+## Approach and findings
 
-This research focuses on understanding thermal transport and mechanical behavior in two-dimensional (2D) materials using molecular dynamics simulations. The work explores how atomic structure, bonding, and interfaces influence material properties at the nanoscale, with applications in nanoelectronics, thermal management, and advanced materials design.
+- Analyzed stress–strain response and deformation along different crystallographic directions.
+- Studied the influence of atomic defects on shear modulus and fracture strain.
+- Linked defect populations and the anisotropic atomic structure to mechanical degradation.
 
----
+## Simulation visualizations
 
-### 2D Black Phosphorene
+### Tensile deformation
+<video controls preload="metadata" playsinline aria-label="Black phosphorene under tensile deformation"><source src="{{ '/_pages/images/phos_final_tensile.mp4' | relative_url }}" type="video/mp4"><a href="{{ '/_pages/images/phos_final_tensile.mp4' | relative_url }}">Download tensile simulation</a></video>
 
-- Studied anisotropic mechanical behavior using molecular dynamics  
-- Analyzed tensile and shear response along different crystallographic directions  
-- Identified directional dependence of strength and deformation mechanisms  
+### Shear deformation
+<video controls preload="metadata" playsinline aria-label="Black phosphorene under shear deformation"><source src="{{ '/_pages/images/phoss_final_shear.mp4' | relative_url }}" type="video/mp4"><a href="{{ '/_pages/images/phoss_final_shear.mp4' | relative_url }}">Download shear simulation</a></video>
 
-<video controls width="900">
-  <source src="{{ '../images/phos_final_tensile.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Related publication
 
-
-<video autoplay loop muted playsinline width="800">
-  <source src="{{ '_pages/images/phoss_final_shear.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-<video autoplay loop muted playsinline width="800">
-  <source src="{{ '_pages/images/phoss_final_shear.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-*Structure of black phosphorene showing anisotropic bonding directions.*
-
----
-
-## Key Contributions
-
-- Developed molecular-level understanding of heat transport in low-dimensional systems  
-- Established relationships between structure and thermal conductivity  
-- Advanced modeling of interfacial thermal transport in 2D materials  
-- Characterized anisotropic mechanical behavior in emerging nanomaterials  
-
----
-
-## Related Publications
-
-**Hatamlee, S.M.**, et al.  
-*Mechanical properties of black phosphorene*  
-Materials Today Communications (2020)
+Hatam-Lee SM, Peer-Mohammadi H, Rajabpour A. *Tuning shear mechanical properties and tensile strength anisotropy of monolayer black phosphorene: a molecular dynamics study*. Materials Today Communications, 26:101796, 2021.

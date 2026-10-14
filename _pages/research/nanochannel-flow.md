@@ -38,14 +38,13 @@ This project investigates fluid transport at the nanoscale using molecular dynam
 
 ## Simulation Snapshot
 
-![Simulation GIF placeholder](../images/nanochannel_simulation.gif)
+![Pressure-driven flow in silica nanochannels]({{ '/_pages/images/Flow.png' | relative_url }})
 
 *Molecular dynamics snapshot illustrating fluid structure and transport within a silica nanochannel.*
 
 
 ---
 
-## Related Publications
+## Related publication
 
-- Hatamlee, S.M., Li, J.  
-  *Molecular Dynamics Study of Water Flow in Silica Nanochannels to Understand the Transition from Flow Enhancement to Reduction* (Under Review)
+Hatamlee SM, Li J. *Molecular dynamics study of fluid flow in silica nanochannels to understand the transition from flow enhancement to reduction*. Journal of Molecular Liquids, 2026:129795. [Read the article](https://doi.org/10.1016/j.molliq.2026.129795).

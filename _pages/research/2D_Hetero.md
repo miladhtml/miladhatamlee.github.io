@@ -4,38 +4,19 @@ title: "2D Heterostructures"
 permalink: /research/2D_Hetero/
 author_profile: true
 ---
+
 [← Back to Research]({{ '/research/' | relative_url }})
 
+I investigated interfacial thermal conductance across **15 carbon-based heterostructures**, combining non-equilibrium molecular dynamics with lattice-dynamics analysis.
 
-## Overview
+## Approach and findings
 
-This research focuses on understanding thermal transport and mechanical behavior in two-dimensional (2D) materials using molecular dynamics simulations. The work explores how atomic structure, bonding, and interfaces influence material properties at the nanoscale, with applications in nanoelectronics, thermal management, and advanced materials design.
+- Computed heat transfer across interfaces between two-dimensional carbon-based structures.
+- Examined vibrational coupling and localized interfacial modes.
+- Found that localized interfacial vibrational modes provide a stronger descriptor of thermal conductance than phonon density-of-states overlap alone.
 
----
+![Carbon-based interfaces]({{ '/_pages/images/interface_itr.png' | relative_url }})
 
-### Interfacial Thermal Conductance (ITR) in 2D Heterostructures
+## Related publication
 
-- Studied heat transfer across interfaces between dissimilar 2D materials  
-- Quantified interfacial thermal resistance using molecular dynamics simulations  
-- Analyzed the role of lattice mismatch and vibrational coupling  
-
-![Interface heat transfer](_pages/images/interface_itr.png)
-
-*Illustration of heat transfer across a 2D material interface.*
-
----
-
-## Key Contributions
-
-- Developed molecular-level understanding of heat transport in low-dimensional systems  
-- Established relationships between structure and thermal conductivity  
-- Advanced modeling of interfacial thermal transport in 2D materials  
-- Characterized anisotropic mechanical behavior in emerging nanomaterials  
-
----
-
-## Related Publications
-
-**Hatamlee, S.M.**, et al.  
-*Interfacial thermal conductance between gold and SiO₂*  
-Nanoscale and Microscale Thermophysical Engineering (2022)
+Hatam-Lee SM, Gordiz K, Rajabpour A. *Lattice-dynamics-based descriptors for interfacial heat transfer across two-dimensional carbon-based nanostructures*. Journal of Applied Physics, 2021.

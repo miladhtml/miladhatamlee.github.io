@@ -47,13 +47,14 @@ This work aims to bridge this gap by combining molecular simulations with modifi
 
 ## Simulation Snapshots
 
-![MC simulation snapshot](../images/confined_mc_snapshot.png)
+![MC simulation snapshot]({{ '/_pages/images/binary.png' | relative_url }})
 
 *Representative molecular configuration of a confined fluid system obtained from Monte Carlo simulations.*
 
 ---
 
-## Related Work
+## Related publication
 
-- Hatamlee, S.M., et al.  
-  *Modified Peng–Robinson Equation of State for CO₂/Hydrocarbon Binaries under Confinement Based on Monte Carlo Simulations* (Under Review)
+Hatamlee SM, Hoepfner M, Elmehlawy M, Lu M, Li Z, Li J. *Monte Carlo Informed Modification of Peng-Robinson Equation of State for CO₂/Hydrocarbon Mixtures Confined in Nanopores*. Accepted, Langmuir, 2026.
+
+The equation-of-state parameters were fitted at sampled temperatures; interpolation and extrapolation beyond those conditions were not validated.

@@ -1,9 +1,27 @@
 ---
 layout: single
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
+author_profile: true
 ---
 
-You can download my CV here:
+<p><a class="btn btn--primary" href="{{ '/files/Hatamlee_CV.pdf' | relative_url }}">Download CV (PDF)</a></p>
 
-[Download CV](../files/Hatamlee_CV.pdf)
+Updated October 2026. The PDF includes my education, research and teaching experience, publications, technical skills, and service.
+
+## Education
+
+- **Ph.D., Mechanical Engineering**, University at Buffalo, 2026. Dissertation: *Thermodynamics and Transport of Small Molecules under Nanoconfinement*. Advisor: Prof. Jiaoyan Li.
+- **M.S., Mechanical Engineering**, Imam Khomeini International University, 2020. Advisor: Dr. Ali Rajabpour.
+- **B.S., Mechanical Engineering**, K.N. Toosi University of Technology, 2017.
+
+## Research experience
+
+- **Graduate Research Assistant**, University at Buffalo, 2022–2026. Molecular simulations of confined fluids, phase equilibrium, adsorption, and nanoscale transport.
+- **Research Assistant**, Imam Khomeini International University, 2018–2021. Thermal and mechanical properties of low-dimensional materials and machine-learning interatomic potentials.
+
+## Methods and tools
+
+Molecular dynamics · Monte Carlo · Density functional theory · Machine-learning interatomic potentials · Equation-of-state modeling · Finite-element analysis
+
+LAMMPS · Towhee · VASP · Quantum ESPRESSO · Abaqus · Python · MATLAB · Bash · Linux / HPC

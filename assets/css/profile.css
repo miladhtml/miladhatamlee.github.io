@@ -1,0 +1,9 @@
+.profile-kicker {font-size:.75rem;letter-spacing:.12em;font-weight:700;color:var(--global-link-color);margin-top:0}
+.profile-actions {display:flex;flex-wrap:wrap;gap:.7rem;margin:1.7rem 0}
+.profile-actions .btn {margin:0}
+.page__content {line-height:1.75}
+.page__content h2 {margin-top:2.2rem}
+.page__content img {height:auto;max-width:100%;border-radius:8px}
+.page__content video {display:block;width:100%;max-width:900px;height:auto;margin:1rem 0;border-radius:8px}
+.page__content a:focus-visible,.masthead a:focus-visible {outline:3px solid currentColor;outline-offset:4px}
+@media(max-width:600px){.page__title{font-size:1.65rem}.profile-actions .btn{width:100%}}

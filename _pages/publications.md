@@ -2,36 +2,39 @@
 layout: single
 title: "Publications"
 permalink: /publications/
+author_profile: true
 ---
 
-## Journal Articles
+See [Google Scholar](https://scholar.google.com/citations?hl=en&user=vp2BeBkAAAAJ) for citation metrics and additional links. Publications appear under the names **Seyed Milad Hatamlee** and **S. M. Hatam-Lee**.
 
-**Hatam-Lee SM**, Rajabpour A, Volz S. Thermal conductivity of graphene polymorphs and compounds: From C3N to graphdiyne lattices. Carbon. 2020 May 1;161:816-26.
-​
-**Hatam-Lee SM**, Esfandiar A, Rajabpour A. Mechanical behaviors of titanium nitride and carbide MXenes: a molecular dynamics study. Applied Surface Science. 2021 Nov 15;566:150633.​
-​
-**Hatam-Lee SM**, Gordiz K, Rajabpour A. Lattice-dynamics-based descriptors for interfacial heat transfer across two-dimensional carbon-based nanostructures. Journal of Applied Physics. 2021 Oct 7;130(13).
-​
-**Hatam-Lee SM**, Peer-Mohammadi H, Rajabpour A. Tuning shear mechanical properties and tensile strength anisotropy of monolayer black phosphorene: A molecular dynamics study. Materials Today Communications. 2021 Mar 1;26:101796.
+## Journal articles
 
-Arabha S, Aghbolagh ZS, Ghorbani K, **Hatam-Lee SM**, Rajabpour A. Recent advances in lattice thermal conductivity calculation using machine-learning interatomic potentials. Journal of Applied Physics. 2021 Dec 7;130(21).
-​
-Ghasemi H, **Hatam-Lee SM**, Tirkolaei HK, Yazdani H. Biocementation of soils of different surface chemistries via enzyme induced carbonate precipitation (EICP): An integrated laboratory and molecular dynamics study. Biophysical Chemistry. 2022 May 1;284:106793.
-​
-**Hatam-Lee SM**, Gordiz K, Rajabpour A. Lattice-dynamics-based descriptors for interfacial heat transfer across two-dimensional carbon-based nanostructures. Journal of Applied Physics. 2021 Oct 7;130(13).
-​
-Xia Y, Liu J, Kancharla R, Li J, **Hatamlee SM**, Ren G, Semeykina V, Hamed A, Kane JJ. Insights into the 3D permeable pore structure within novel monodisperse mesoporous silica nanoparticles by cryogenic electron tomography. Nanoscale Advances. 2023;5(11):2879-86.
-​
+1. **Hatamlee SM**, Hoepfner M, Elmehlawy M, Lu M, Li Z, Li J. *Monte Carlo Informed Modification of Peng-Robinson Equation of State for CO₂/Hydrocarbon Mixtures Confined in Nanopores*. **Accepted, Langmuir, 2026.**
 
----
+2. **Hatamlee SM**, Li J. *Molecular dynamics study of fluid flow in silica nanochannels to understand the transition from flow enhancement to reduction*. Journal of Molecular Liquids, 2026:129795. [DOI](https://doi.org/10.1016/j.molliq.2026.129795).
 
-## Conference Presentations
+3. Xia Y, Liu J, Kancharla R, Li J, **Hatamlee SM**, Ren G, Semeykina V, Hamed A, Kane JJ. *Insights into the 3D permeable pore structure within novel monodisperse mesoporous silica nanoparticles by cryogenic electron tomography*. Nanoscale Advances, 5(11):2879–2886, 2023.
 
-*Molecular Dynamics Study of Water Flow in Silica Nanochannels*  
-APS Division of Fluid Dynamics, 2025  
+4. Ghasemi H, **Hatam-Lee SM**, Tirkolaei HK, Yazdani H. *Biocementation of soils of different surface chemistries via enzyme induced carbonate precipitation (EICP): An integrated laboratory and molecular dynamics study*. Biophysical Chemistry, 284:106793, 2022.
 
-*Modified Peng–Robinson EOS for CO₂/Hydrocarbon Systems*  
-MUSE Meeting, 2024  
+5. **Hatamlee SM**, Jabbari F, Rajabpour A. *Interfacial thermal conductance between gold and SiO₂: A molecular dynamics study*. Nanoscale and Microscale Thermophysical Engineering, 2022.
 
-*Thermal Conductivity of Graphene Polymorphs*  
-Nanotechnology Conference, 2019  
+6. **Hatam-Lee SM**, Gordiz K, Rajabpour A. *Lattice-dynamics-based descriptors for interfacial heat transfer across two-dimensional carbon-based nanostructures*. Journal of Applied Physics, 2021.
+
+7. Arabha S, Aghbolagh ZS, Ghorbani K, **Hatam-Lee SM**, Rajabpour A. *Recent advances in lattice thermal conductivity calculation using machine-learning interatomic potentials*. Journal of Applied Physics, 130(21):210903, 2021.
+
+8. **Hatam-Lee SM**, Esfandiar A, Rajabpour A. *Mechanical behaviors of titanium nitride and carbide MXenes: A molecular dynamics study*. Applied Surface Science, 566:150633, 2021.
+
+9. **Hatam-Lee SM**, Peer-Mohammadi H, Rajabpour A. *Tuning shear mechanical properties and tensile strength anisotropy of monolayer black phosphorene: A molecular dynamics study*. Materials Today Communications, 26:101796, 2021.
+
+10. **Hatam-Lee SM**, Rajabpour A, Volz S. *Thermal conductivity of graphene polymorphs and compounds: From C₃N to graphdiyne lattices*. Carbon, 161:816–826, 2020.
+
+## Manuscripts under review
+
+**Hatamlee SM**, Li J. *Molecular insights into water and CO₂ transport and adsorption in zeolite 13X*. Under review, Microporous and Mesoporous Materials, 2026.
+
+## Conference presentations
+
+- *Molecular dynamics study of water flow in silica nanochannels: Surface wettability governs the transition from reduction to enhancement*. APS Division of Fluid Dynamics, 78th Annual Meeting, November 2025.
+- *Modified Peng–Robinson equation of state for CO₂/hydrocarbon binaries under confinement based on Monte Carlo simulations*. MUSE All-Hands Meeting, University of Utah, January 2024.
+- *Thermal conductivity of graphene polymorphs and compounds: From C₃N to graphdiyne lattices*. 7th National Conference on Nanotechnology from Theory to Application, June 2019.

@@ -1,9 +1,9 @@
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "About"
+title                    : "Seyed Milad Hatamlee"
 title_separator          : "-"
 name                     : &name "Seyed Milad Hatamlee"
-description              : &description "Ph.D. Candidate in Mechanical Engineering at the University at Buffalo"
+description              : &description "Computational materials scientist | Molecular simulation, thermodynamics, and nanoscale transport"
 url                      : "https://miladhtml.github.io"
 baseurl                  : "/miladhatamlee.github.io"
 repository               : "miladhtml/miladhatamlee.github.io"
@@ -11,10 +11,10 @@ repository               : "miladhtml/miladhatamlee.github.io"
 author:
   avatar           : "profile.png"
   name             : "Seyed Milad Hatamlee"
-  bio              : "Ph.D. Candidate in Mechanical Engineering at the University at Buffalo. Research in molecular simulations, nanoconfined fluids, CO2 transport, and phase behavior."
-  location         : "Buffalo, New York, USA"
-  employer         : "University at Buffalo"
-  email            : "seyedmil@buffalo.edu"
+  bio              : "Computational materials scientist | Molecular simulation, thermodynamics, and nanoscale transport. Research in molecular simulations, nanoconfined fluids, CO2 transport, and phase behavior."
+  location         : "Palo Alto, California, USA"
+  employer         : ""
+  email            : "miladhtml2@gmail.com"
 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=vp2BeBkAAAAJ"
   orcid            : "https://orcid.org/0000-0003-4693-0476"
@@ -34,7 +34,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
@@ -64,7 +64,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -105,6 +105,33 @@ include:
   - _pages
   - files
 exclude:
+  - _posts
+  - _drafts
+  - _publications
+  - _talks
+  - _teaching
+  - _portfolio
+  - markdown_generator
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
+  - CONTRIBUTING.md
+  - docs
+  - _pages/collection-archive.html
+  - _pages/year-archive.html
+  - _pages/portfolio.html
+  - _pages/terms.md
+  - _pages/teaching.html
+  - _pages/page-archive.html
+  - _pages/markdown.md
+  - _pages/talkmap.html
+  - _pages/non-menu-page.md
+  - _pages/cv-json.md
+  - _pages/publications.html
+  - _pages/category-archive.html
+  - _pages/tag-archive.html
+  - _pages/archive-layout-with-content.md
+  - _pages/talks.html
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

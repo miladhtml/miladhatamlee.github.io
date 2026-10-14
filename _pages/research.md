@@ -16,7 +16,7 @@ My research focuses on molecular simulations of fluid transport and phase behavi
 ### Water and CO₂ Transport in Nanochannels
 Molecular dynamics simulations of nanoscale flow in silica nanochannels with varying surface chemistries. This work investigates deviations from classical continuum behavior and the role of interfacial interactions.
 
-![Water and CO₂ transport in nanochannels](./images/Flow.png)
+![Water and CO₂ transport in nanochannels]({{ '/_pages/images/Flow.png' | relative_url }})
 
 [Read more →]({{ '/research/nanochannel-flow/' | relative_url }})
 
@@ -25,7 +25,7 @@ Molecular dynamics simulations of nanoscale flow in silica nanochannels with var
 ### Confined Phase Behavior of CO₂/Hydrocarbon Mixtures
 Monte Carlo simulations and thermodynamic modeling of phase equilibrium under nanoscale confinement, including development of modified equations of state.
 
-![Graphene structures](./images/binary.png)
+![Research visualization]({{ '/_pages/images/binary.png' | relative_url }})
 
 [Read more →]({{ '/research/confined-phase/' | relative_url }})
 
@@ -34,7 +34,7 @@ Monte Carlo simulations and thermodynamic modeling of phase equilibrium under na
 ### Adsorption and Transport in Zeolite 13X
 Molecular simulation of CO₂ and water behavior in nanoporous materials, focusing on adsorption mechanisms and confined transport phenomena.
 
-![Graphene structures](./images/Zeolite.png)
+![Research visualization]({{ '/_pages/images/Zeolite.png' | relative_url }})
 
 [Read more →]({{ '/research/zeolite-13x/' | relative_url }})
 
@@ -43,7 +43,7 @@ Molecular simulation of CO₂ and water behavior in nanoporous materials, focusi
 ### Graphene Polymorphs: Thermal and Mechanical Behavior
 Thermal conductivity and the mechanical properties of graphene polymorphs and compounds: from C3N to graphdiyne lattices.
 
-![Graphene structures](./images/graphene_structures.png)
+![Research visualization]({{ '/_pages/images/graphene_structures.png' | relative_url }})
 
 [Read more →]({{ '/research/Graphene_Polymorphs/' | relative_url }})
 
@@ -52,7 +52,7 @@ Thermal conductivity and the mechanical properties of graphene polymorphs and co
 ### MXene Structures: Thermal and Mechanical Behavior
 Probing the mechanical behaviors of titanium nitride and carbide MXenes employing  molecular dynamics simulation.
 
-![Graphene structures](./images/mxene_structure.png)
+![Research visualization]({{ '/_pages/images/mxene_structure.png' | relative_url }})
 
 [Read more →]({{ '/research/MXene_Structures/' | relative_url }})
 
@@ -61,7 +61,7 @@ Probing the mechanical behaviors of titanium nitride and carbide MXenes employin
 ### 2D Black Phosphorene: Thermal and Mechanical Behavior
 Tuning shear mechanical properties and tensile strength anisotropy of monolayer black phosphorene using molecular dynamics simulations
 
-![Graphene structures](./images/2Dphos.png)
+![Research visualization]({{ '/_pages/images/2Dphos.png' | relative_url }})
 
 [Read more →]({{ '/research/2D_Phos/' | relative_url }})
 
@@ -70,6 +70,6 @@ Tuning shear mechanical properties and tensile strength anisotropy of monolayer 
 ### 2D Heterostructures
 Lattice-dynamics-based descriptors for the Interfacial Thermal Conductance (ITC) across 2D carbon-based nanostructures
 
-![Graphene structures](./images/interface_itr.png)
+![Research visualization]({{ '/_pages/images/interface_itr.png' | relative_url }})
 
 [Read more →]({{ '/research/2D_Hetero/' | relative_url }})

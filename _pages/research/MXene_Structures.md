@@ -1,45 +1,22 @@
 ---
 layout: single
-title: "MXene Structures"
+title: "Mechanical Behavior of MXenes"
 permalink: /research/MXene_Structures/
 author_profile: true
 ---
+
 [← Back to Research]({{ '/research/' | relative_url }})
 
+I used molecular dynamics to investigate the mechanical response of titanium carbide and nitride MXenes, connecting atomic structure and surface termination to stiffness and failure.
 
-## Overview
+## Approach and findings
 
-This research focuses on understanding thermal transport and mechanical behavior in two-dimensional (2D) materials using molecular dynamics simulations. The work explores how atomic structure, bonding, and interfaces influence material properties at the nanoscale, with applications in nanoelectronics, thermal management, and advanced materials design.
+- Quantified stress–strain response, Young’s modulus, fracture strain, and deformation mechanisms across eight MXene structures.
+- Examined how surface termination and oxidation alter stiffness trends between carbide and nitride variants.
+- Connected atomic-scale structural changes to mechanical response under tensile loading.
 
----
+![MXene atomic structures]({{ '/_pages/images/mxene_structure.png' | relative_url }})
 
-## Mechanical Behavior
+## Related publication
 
-### MXene Structures
-
-- Modeled mechanical properties of MXene materials under deformation  
-- Investigated stress–strain response and structural stability  
-- Identified key parameters controlling mechanical strength  
-
-![MXene structure](../images/mxene_structure.png.png)
-
-*Atomic structure of MXene materials used in simulations.*
-
----
-
-## Key Contributions
-
-- Developed molecular-level understanding of heat transport in low-dimensional systems  
-- Established relationships between structure and thermal conductivity  
-- Advanced modeling of interfacial thermal transport in 2D materials  
-- Characterized anisotropic mechanical behavior in emerging nanomaterials  
-
----
-
-## Related Publications
-
-**Hatamlee, S.M.**, et al.  
-*Mechanical behaviors of MXene materials*  
-Applied Surface Science (2021)
-
-Additional related works include studies on machine learning interatomic potentials and thermal transport modeling.
+Hatam-Lee SM, Esfandiar A, Rajabpour A. *Mechanical behaviors of titanium nitride and carbide MXenes: a molecular dynamics study*. Applied Surface Science, 566:150633, 2021.

@@ -40,13 +40,13 @@ This work explores how these factors influence adsorption and transport of CO₂
 
 ## Simulation Snapshots
 
-![Zeolite structure](../images/2.png)
+![Zeolite structure]({{ '/_pages/images/2.png' | relative_url }})
 
 *Representative structure of Zeolite 13X used in molecular simulations.*
 
 ---
 
-![Adsorption snapshot](../images/Zeolite2.gif)
+![Adsorption snapshot]({{ '/_pages/images/Zeolite2.gif' | relative_url }})
 
 *Example molecular configuration showing adsorption of fluid species within nanopores.*
 
@@ -61,4 +61,4 @@ This research is currently under development, with detailed results being prepar
 ## Related Work
 
 - Hatamlee, S.M., Li, J.  
-  *Molecular Insights into Water and CO₂ Transport and Adsorption in Zeolite 13X* (Under Review)
+  *Molecular Insights into Water and CO₂ Transport and Adsorption in Zeolite 13X* (Under review, Microporous and Mesoporous Materials, 2026)

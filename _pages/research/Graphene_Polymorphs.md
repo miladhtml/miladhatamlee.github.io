@@ -15,16 +15,16 @@ This research focuses on understanding thermal transport and mechanical behavior
 
 ## Graphene Polymorphs and Carbon-Based Structures
 
--Investigated thermal conductivity across various graphene-derived lattices
--Identified strong dependence of thermal transport on lattice structure and bonding
--Established structure–property relationships governing heat conduction​
+- Investigated thermal conductivity across various graphene-derived lattices
+- Identified strong dependence of thermal transport on lattice structure and bonding
+- Established structure–property relationships governing heat conduction​
 
-![Graphene structures](../images/Barchart.png)
+![Graphene structures]({{ '/_pages/images/Barchart.png' | relative_url }})
 
 
-![TPG structures](../images/TPG.jpg)
+![TPG structures]({{ '/_pages/images/TPG.jpg' | relative_url }})
 
-    ![TPG structure](../images/TPG.gif)
+![TPG structure]({{ '/_pages/images/TPG.gif' | relative_url }})
 
 
 ---
