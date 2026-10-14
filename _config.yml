@@ -4,8 +4,8 @@ title                    : "Seyed Milad Hatamlee"
 title_separator          : "-"
 name                     : &name "Seyed Milad Hatamlee"
 description              : &description "Computational materials scientist | Molecular simulation, thermodynamics, and nanoscale transport"
-url                      : "https://miladhtml.github.io"
-baseurl                  : "/miladhatamlee.github.io"
+url                      : "https://miladhtml.online"
+baseurl                  : ""
 repository               : "miladhtml/miladhatamlee.github.io"
 
 author:
@@ -19,7 +19,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=vp2BeBkAAAAJ"
   orcid            : "https://orcid.org/0000-0003-4693-0476"
   github           : "miladhtml"
-  linkedin         : "https://www.linkedin.com/in/seyed-milad-hatamlee-3a52aa1a7/"
+  linkedin         : "seyed-milad-hatamlee-3a52aa1a7"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
