@@ -12,7 +12,8 @@ The PDF includes my education, research and teaching experience, publications, t
 ## Education
 
 - **Ph.D., Mechanical Engineering**, University at Buffalo, 2026. Dissertation: *Thermodynamics and Transport of Small Molecules under Nanoconfinement*. Advisor: Prof. Jiaoyan Li.
-- **M.S., Mechanical Engineering**, Imam Khomeini International University, 2020. Advisor: Dr. Ali Rajabpour.
+- **M.S., Mechanical Engineering**, Imam Khomeini International University, 2020. Dissertation: *Study of Heat Transport in 2D Structures of Carbon Nitride by Non-Equilibrium 
+Molecular Dynamics*. Advisor: Dr. Ali Rajabpour.
 - **B.S., Mechanical Engineering**, K.N. Toosi University of Technology, 2017.
 
 ## Research experience
