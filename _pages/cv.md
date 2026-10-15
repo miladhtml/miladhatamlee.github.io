@@ -5,9 +5,9 @@ permalink: /cv/
 author_profile: true
 ---
 
-<p><a class="btn btn--primary" href="{{ '/files/Hatamlee_CV.pdf' | relative_url }}">Download CV (PDF)</a></p>
+<p><a class="btn btn--primary" href="{{ '/files/Hatamlee_CV_up.pdf' | relative_url }}">Download CV (PDF)</a></p>
 
-Updated October 2026. The PDF includes my education, research and teaching experience, publications, technical skills, and service.
+The PDF includes my education, research and teaching experience, publications, technical skills, and service.
 
 ## Education
 
