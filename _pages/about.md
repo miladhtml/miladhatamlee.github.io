@@ -7,11 +7,11 @@ author_profile: true
 
 <p class="profile-kicker">COMPUTATIONAL MATERIALS &amp; MOLECULAR SIMULATION</p>
 
-I am **Seyed Milad Hatamlee**, a mechanical engineer and computational materials researcher based in **Palo Alto, California**. I earned my Ph.D. in Mechanical Engineering at the **University at Buffalo** in 2026, working with Prof. Jiaoyan Li on the thermodynamics and transport of small molecules under nanoconfinement.
+I am Seyed Milad Hatamlee, a mechanical engineer and computational materials researcher based in Palo Alto, California. I earned my Ph.D. in Mechanical Engineering at the University at Buffalo in 2026, working on the thermodynamics and transport of small molecules under nanoconfinement.
 
-I use molecular simulations to understand how surfaces, interfaces, and atomic structure govern material behavior. My research connects **fluid transport and phase equilibrium in nanopores** with **thermal transport and mechanical properties of low-dimensional materials**.
+I build Computational models and machine-learning models that predict how fluids and materials behave at the nanoscale, where bulk thermodynamics stops working and continuum models can be off by 200%.
 
-<p class="profile-actions"><a class="btn btn--primary" href="{{ '/research/' | relative_url }}">Explore my research</a> <a class="btn" href="{{ '/files/Hatamlee_CV.pdf' | relative_url }}">Download CV (PDF)</a></p>
+<p class="profile-actions"><a class="btn btn--primary" href="{{ '/research/' | relative_url }}">Explore my research</a> <a class="btn" href="{{ '/files/Hatamlee_CV_up.pdf' | relative_url }}">Download CV (PDF)</a></p>
 
 ## Research focus
 
@@ -21,7 +21,7 @@ I use molecular simulations to understand how surfaces, interfaces, and atomic s
 
 ## How I work
 
-I combine physics-based models with reproducible simulation and analysis workflows. My tools include **LAMMPS, Towhee, VASP, Quantum ESPRESSO, Python, and MATLAB**, with experience in active-learning interatomic potentials and finite-element modeling in Abaqus.
+I combine physics-based models with reproducible simulation and analysis workflows. My tools include LAMMPS, Towhee, VASP, Quantum ESPRESSO, Python, and MATLAB, with experience in active-learning interatomic potentials and finite-element modeling in Abaqus.
 
 ## Recent work
 
@@ -30,4 +30,4 @@ I combine physics-based models with reproducible simulation and analysis workflo
 
 ## Let's connect
 
-I welcome conversations about postdoctoral research, computational materials and simulation roles, and collaborations in the **San Francisco Bay Area**. [Get in touch →]({{ '/contact/' | relative_url }})
+I welcome conversations about postdoctoral research, computational materials and simulation roles, and collaborations in the San Francisco Bay Area. [Get in touch →]({{ '/contact/' | relative_url }})
