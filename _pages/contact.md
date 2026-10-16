@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Contact"
+description: "Contact Seyed Milad Hatamlee in Palo Alto, California, about computational materials research, molecular simulation, and collaboration opportunities."
 permalink: /contact/
 author_profile: true
 ---

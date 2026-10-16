@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Mechanical Behavior of Black Phosphorene"
+description: "Molecular dynamics research by Seyed Milad Hatamlee on tensile and shear response, anisotropy, and mechanical failure in monolayer black phosphorene."
 permalink: /research/2D_Phos/
 author_profile: true
 ---

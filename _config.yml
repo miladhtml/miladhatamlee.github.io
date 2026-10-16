@@ -3,7 +3,7 @@ site_theme               : "default"
 title                    : "Seyed Milad Hatamlee"
 title_separator          : "-"
 name                     : &name "Seyed Milad Hatamlee"
-description              : &description "Computational materials scientist | Molecular simulation, thermodynamics, and nanoscale transport"
+description              : &description "Seyed Milad Hatamlee is a computational materials scientist in Palo Alto, California, researching molecular simulation, thermodynamics, and nanoscale transport."
 url                      : "https://miladhtml.online"
 baseurl                  : ""
 repository               : "miladhtml/miladhatamlee.github.io"
@@ -87,9 +87,16 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type: Person
+  name: "Seyed Milad Hatamlee"
+  alternate_names:
+    - "Milad Hatamlee"
+    - "Seyed Milad Hatam-Lee"
+  links:
+    - "https://scholar.google.com/citations?user=vp2BeBkAAAAJ"
+    - "https://orcid.org/0000-0003-4693-0476"
+    - "https://github.com/miladhtml"
+    - "https://www.linkedin.com/in/seyed-milad-hatamlee-3a52aa1a7/"
 
 
 # Analytics
@@ -105,6 +112,14 @@ include:
   - _pages
   - files
 exclude:
+  # Academic Pages sample documents; keep them out of the published site.
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - files/slides1.pdf
+  - files/slides2.pdf
+  - files/slides3.pdf
+  - files/bibtex1.bib
   - _pages/teaching.md
   - _posts
   - _drafts

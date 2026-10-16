@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Confined Phase Behavior of CO₂/Hydrocarbon Mixtures"
+description: "Seyed Milad Hatamlee studies CO2 and hydrocarbon phase equilibrium in nanopores using Monte Carlo simulation and modified equations of state."
 permalink: /research/confined-phase/
 author_profile: true
 ---

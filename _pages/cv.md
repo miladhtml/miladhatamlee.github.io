@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Curriculum Vitae"
+description: "Curriculum vitae of Seyed Milad Hatamlee: education, research experience, publications, and skills in molecular simulation and computational materials science."
 permalink: /cv/
 author_profile: true
 ---

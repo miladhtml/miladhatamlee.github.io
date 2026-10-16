@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Mechanical Behavior of MXenes"
+description: "Molecular dynamics research by Seyed Milad Hatamlee on stiffness, deformation, and mechanical failure in titanium carbide and nitride MXene structures."
 permalink: /research/MXene_Structures/
 author_profile: true
 ---

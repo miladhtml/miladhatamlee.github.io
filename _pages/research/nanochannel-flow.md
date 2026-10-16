@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Water and CO₂ Transport in Silica Nanochannels"
+description: "Seyed Milad Hatamlee models water and CO2 flow in silica nanochannels, linking surface chemistry and molecular interactions to transport behavior."
 permalink: /research/nanochannel-flow/
 author_profile: true
 ---

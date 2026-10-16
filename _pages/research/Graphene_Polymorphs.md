@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Graphene Polymorphs: Thermal and Mechanical Behavior"
+description: "Seyed Milad Hatamlee studies thermal transport in graphene polymorphs and compounds, from carbon nitride to graphdiyne, using atomistic simulation."
 permalink: /research/Graphene_Polymorphs/
 author_profile: true
 ---

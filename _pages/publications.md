@@ -1,11 +1,14 @@
 ---
 layout: single
 title: "Publications"
+description: "Publications by Seyed Milad Hatamlee on nanoconfined fluids, thermodynamics, thermal transport, two-dimensional materials, and machine-learning potentials."
 permalink: /publications/
 author_profile: true
 ---
 
 See [Google Scholar](https://scholar.google.com/citations?hl=en&user=vp2BeBkAAAAJ) for citation metrics and additional links.
+
+My publications also appear under the name **S. M. Hatam-Lee**.
 
 ## Journal articles
 

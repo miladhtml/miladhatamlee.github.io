@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Adsorption and Transport in Zeolite 13X"
+description: "Molecular simulation research by Seyed Milad Hatamlee on CO2 and water adsorption and transport in nanoporous zeolite 13X."
 permalink: /research/zeolite-13x/
 author_profile: true
 ---
@@ -41,7 +42,7 @@ This work explores how these factors influence adsorption and transport of CO₂
 ## Simulation Snapshots
 
 <figure style="display: block; text-align: center;">
-  <img src="{{ '/_pages/images/2.png' | relative_url }}" alt="TPG structure" style="width: 50%; height: auto;" />
+  <img src="{{ '/_pages/images/2.png' | relative_url }}" alt="Zeolite 13X structure used in molecular simulations" style="width: 50%; height: auto;" />
   <figcaption>Representative structure of Zeolite 13X used in molecular simulations.</figcaption>
 </figure>
 

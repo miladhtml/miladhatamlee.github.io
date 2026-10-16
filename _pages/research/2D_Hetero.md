@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "2D Heterostructures"
+description: "Seyed Milad Hatamlee investigates interfacial thermal conductance across 15 carbon-based heterostructures using molecular dynamics and lattice dynamics."
 permalink: /research/2D_Hetero/
 author_profile: true
 ---

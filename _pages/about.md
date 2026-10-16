@@ -1,11 +1,15 @@
 ---
 layout: single
-title: "Molecular insight. Engineering understanding."
+title: "Seyed Milad Hatamlee"
+seo_title: "Seyed Milad Hatamlee | Computational Materials Scientist"
+description: "Milad Hatamlee, Ph.D., is a computational materials scientist in Palo Alto working on molecular simulation, thermodynamics, and nanoscale transport."
 permalink: /
 author_profile: true
 ---
 
 <p class="profile-kicker">COMPUTATIONAL MATERIALS &amp; MOLECULAR SIMULATION</p>
+
+**Molecular insight. Engineering understanding.**
 
 I am Seyed Milad Hatamlee, a mechanical engineer and computational materials researcher based in Palo Alto, California. I earned my Ph.D. in Mechanical Engineering at the University at Buffalo in 2026, working on the thermodynamics and transport of small molecules under nanoconfinement.
 
