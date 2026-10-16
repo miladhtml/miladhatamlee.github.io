@@ -15,7 +15,10 @@ I investigated interfacial thermal conductance across **15 carbon-based heterost
 - Examined vibrational coupling and localized interfacial modes.
 - Found that localized interfacial vibrational modes provide a stronger descriptor of thermal conductance than phonon density-of-states overlap alone.
 
-![Carbon-based interfaces]({{ '/_pages/images/Figs_inter.png' | relative_url }})
+<figure style="display: block; text-align: center;">
+  <img src="{{ '/_pages/images/Figs_inter.png' | relative_url }}" alt="Simulation cell with hot and cold thermal baths, fixed atoms at the ends, and a heterostructure interface." class="align-center" style="width: auto;">
+  <figcaption>Non-equilibrium molecular dynamics setup for interfacial heat transfer, showing the hot and cold baths, fixed end regions, and heterostructure interface.</figcaption>
+</figure>
 
 
 ![Carbon-based interfaces]({{ '/_pages/images/fig_hetero.png' | relative_url }})
