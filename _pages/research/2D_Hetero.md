@@ -18,7 +18,7 @@ I investigated interfacial thermal conductance across **15 carbon-based heterost
 ![Carbon-based interfaces]({{ '/_pages/images/Figs_inter.png' | relative_url }})
 
 
-![Carbon-based interfaces]({{ '/_pages/images/ifig_hetero.png' | relative_url }})
+![Carbon-based interfaces]({{ '/_pages/images/fig_hetero.png' | relative_url }})
 
 
 ## Related publication
