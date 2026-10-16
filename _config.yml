@@ -105,6 +105,7 @@ include:
   - _pages
   - files
 exclude:
+  - _pages/teaching.md
   - _posts
   - _drafts
   - _publications
