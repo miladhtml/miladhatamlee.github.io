@@ -17,7 +17,7 @@ I used molecular dynamics to investigate the mechanical response of titanium car
 
 ## Simulation visualizations
 
-<video controls preload="metadata" playsinline aria-label="Black phosphorene under shear deformation"><source src="{{ '/_pages/images/MLIP.mp4' | relative_url }}" type="video/mp4"><a href="{{ '/_pages/images/MLIP.mp4' | relative_url }}">Download shear simulation</a></video>
+<video controls preload="metadata" playsinline aria-label="MXene under tensile deformation"><source src="{{ '/_pages/images/mxene-mechanical-cropped.mp4' | relative_url }}" type="video/mp4"><a href="{{ '/_pages/images/mxene-mechanical-cropped.mp4' | relative_url }}">Download MXene simulation</a></video>
 
 ## Related publication
 
