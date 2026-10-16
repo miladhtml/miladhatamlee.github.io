@@ -54,11 +54,4 @@ This work explores how these factors influence adsorption and transport of CO₂
 
 ## Ongoing Work
 
-This research is currently under development, with detailed results being prepared for journal publication. Selected visualizations are provided here to illustrate the simulation framework and physical phenomena.
-
----
-
-## Related Work
-
-- Hatamlee, S.M., Li, J.  
-  *Molecular Insights into Water and CO₂ Transport and Adsorption in Zeolite 13X* (Under review, Microporous and Mesoporous Materials, 2026)
+This research is currently under development, with detailed results being prepared for journal publication.
