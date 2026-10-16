@@ -40,9 +40,10 @@ This work explores how these factors influence adsorption and transport of CO₂
 
 ## Simulation Snapshots
 
-<img src="{{ '/_pages/images/2.png' | relative_url }}" alt="TPG structure" style="width: 50%; height: auto;" />
-
-*Representative structure of Zeolite 13X used in molecular simulations.*
+<figure style="display: block; text-align: center;">
+  <img src="{{ '/_pages/images/2.png' | relative_url }}" alt="TPG structure" style="width: 50%; height: auto;" />
+  <figcaption>Representative structure of Zeolite 13X used in molecular simulations.</figcaption>
+</figure>
 
 ---
 
