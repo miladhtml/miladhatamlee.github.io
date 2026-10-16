@@ -47,7 +47,14 @@ This work aims to bridge this gap by combining molecular simulations with modifi
 
 ## Simulation Snapshots
 
-![MC simulation snapshot]({{ '/_pages/images/slit.gif' | relative_url }})   ![MC simulation snapshot]({{ '/_pages/images/circ.gif' | relative_url }})
+<div class="phase-comparison">
+  <div class="phase-comparison__frame" style="--canvas-height: 134.9746%; --channel-x: -49.6875%; --channel-y: -50.1%;">
+    <img src="{{ '/_pages/images/slit.gif' | relative_url }}" alt="Monte Carlo animation of fluid confined in a slit pore" width="800" height="500">
+  </div>
+  <div class="phase-comparison__frame" style="--canvas-height: 107.6658%; --channel-x: -55.4375%; --channel-y: -49.4%;">
+    <img src="{{ '/_pages/images/circ.gif' | relative_url }}" alt="Monte Carlo animation of fluid confined in a cylindrical pore" width="800" height="500">
+  </div>
+</div>
 
 
 *Representative molecular configuration of a confined fluid system obtained from Monte Carlo simulations.*
