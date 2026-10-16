@@ -46,7 +46,9 @@ This work explores how these factors influence adsorption and transport of CO₂
 
 ---
 
-![Adsorption snapshot]({{ '/_pages/images/Zeolite2.gif' | relative_url }})
+<div class="zeolite-animation-crop">
+  <img src="{{ '/_pages/images/Zeolite2.gif' | relative_url }}" alt="Animated adsorption and transport of fluid species in zeolite nanopores" width="1600" height="1200">
+</div>
 
 *Example molecular configuration showing adsorption of fluid species within nanopores.*
 
