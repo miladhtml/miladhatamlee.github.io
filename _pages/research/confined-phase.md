@@ -15,9 +15,6 @@ This project focuses on understanding phase behavior of CO₂ and hydrocarbon mi
 ## Motivation
 
 Accurate prediction of phase behavior in nanoporous environments remains a major challenge in thermodynamics. Classical equations of state (EoS), developed for bulk systems, often fail to capture confinement-induced effects such as shifted critical properties, altered phase boundaries, and enhanced adsorption.
-
-This work aims to bridge this gap by combining molecular simulations with modified thermodynamic models.
-
 ---
 
 ## Approach
@@ -56,5 +53,3 @@ This work aims to bridge this gap by combining molecular simulations with modifi
 ## Related publication
 
 Hatamlee SM, Hoepfner M, Elmehlawy M, Lu M, Li Z, Li J. *Monte Carlo Informed Modification of Peng-Robinson Equation of State for CO₂/Hydrocarbon Mixtures Confined in Nanopores*. Accepted, Langmuir, 2026.
-
-The equation-of-state parameters were fitted at sampled temperatures; interpolation and extrapolation beyond those conditions were not validated.
