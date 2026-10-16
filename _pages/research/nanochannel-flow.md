@@ -38,7 +38,7 @@ This project investigates fluid transport at the nanoscale using molecular dynam
 
 ## Simulation Snapshot
 
-![Pressure-driven flow in silica nanochannels]({{ '/_pages/images/Flow.png' | relative_url }})
+![Pressure-driven flow in silica nanochannels]({{ '/_pages/images/slitt.gif' | relative_url }})
 
 *Molecular dynamics snapshot illustrating fluid structure and transport within a silica nanochannel.*
 
