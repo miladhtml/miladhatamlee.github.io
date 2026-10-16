@@ -15,7 +15,9 @@ I used molecular dynamics to investigate the mechanical response of titanium car
 - Examined how surface termination and oxidation alter stiffness trends between carbide and nitride variants.
 - Connected atomic-scale structural changes to mechanical response under tensile loading.
 
-![MXene atomic structures]({{ '/_pages/images/mxene_structure.png' | relative_url }})
+## Simulation visualizations
+
+<video controls preload="metadata" playsinline aria-label="Black phosphorene under shear deformation"><source src="{{ '/_pages/images/MLIP.mp4' | relative_url }}" type="video/mp4"><a href="{{ '/_pages/images/MLIP.mp4' | relative_url }}">Download shear simulation</a></video>
 
 ## Related publication
 
