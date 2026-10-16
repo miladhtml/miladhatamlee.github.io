@@ -47,7 +47,8 @@ This work aims to bridge this gap by combining molecular simulations with modifi
 
 ## Simulation Snapshots
 
-![MC simulation snapshot]({{ '/_pages/images/binary.png' | relative_url }})
+![MC simulation snapshot]({{ '/_pages/images/slit.gif' | relative_url }})   ![MC simulation snapshot]({{ '/_pages/images/circ.gif' | relative_url }})
+
 
 *Representative molecular configuration of a confined fluid system obtained from Monte Carlo simulations.*
 
