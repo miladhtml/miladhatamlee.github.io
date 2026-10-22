@@ -1,41 +1,33 @@
 ---
 layout: single
 title: "Water and CO₂ Transport in Silica Nanochannels"
-description: "Seyed Milad Hatamlee models water and CO2 flow in silica nanochannels, linking surface chemistry and molecular interactions to transport behavior."
+description: "Seyed Milad Hatamlee uses validated molecular models to examine surface chemistry, slip, and apparent permeability in water and CO2 flow through silica nanochannels."
 permalink: /research/nanochannel-flow/
 author_profile: true
 ---
+
 [← Back to Research]({{ '/research/' | relative_url }})
 
-## Overview
+## Research question
 
-This project investigates fluid transport at the nanoscale using molecular dynamics (MD) simulations, with a focus on water, CO₂, and CO₂–water mixtures confined within silica nanochannels. The goal is to understand how confinement and surface chemistry alter transport behavior relative to classical continuum predictions, with applications in energy systems such as carbon storage and subsurface flow.
+When does confinement suppress or enhance fluid flow, and how do silica surface chemistry and molecular interactions control that transition?
 
----
+## My contribution
+
+- Constructed amorphous-silica nanochannels with untreated, hydroxylated, and graphene-coated surfaces.
+- Modeled pressure-driven water, CO₂, and dilute water–CO₂ transport using molecular dynamics with rigid carbon pistons.
+- Checked bulk fluid properties and reference transport behavior before analyzing confined systems.
+- Extracted velocity profiles, slip length, and apparent permeability, and interpreted the results through density layering and hydrogen-bond statistics.
+
+## Principal findings
+
+For the reported **6 nm water cases**, apparent permeability was approximately **35% lower** than the continuum baseline for untreated silica and **73% lower** for hydroxylated silica. Graphene coatings produced positive slip and substantial flow enhancement under the investigated conditions.
+
+Surface chemistry changed interfacial fluid structure and flow resistance. The dilute water–CO₂ mixture remained water-dominated. The simulations used large imposed pressure gradients; the conclusions are scoped to the studied systems and driving conditions.
 
 ## Methods
 
-- Molecular Dynamics (MD) simulations using LAMMPS  
-- Slit silica nanochannels with controlled surface chemistry:
-  - Hydrophilic (untreated silica)
-  - Highly hydrophilic (OH-functionalized)
-  - Hydrophobic (graphene-coated surfaces)  
-- Pressure-driven flow induced using piston-driven forcing  
-- Analysis of velocity profiles, slip behavior, and effective permeability  
-
----
-
-## Key Insights
-
-- Nanoscale fluid transport exhibits significant deviations from classical continuum models under confinement.
-
-- Surface chemistry plays a critical role in governing interfacial slip and flow resistance.
-
-- Hydrophobic and hydrophilic surfaces lead to fundamentally different transport behavior.
-
-- Multicomponent systems (CO₂–water mixtures) introduce additional complexity in transport mechanisms.
-
----
+LAMMPS molecular dynamics; surface modification; force-field and thermophysical-property checks; pressure-driven flow; spatial and time averaging; comparison with Hagen–Poiseuille flow and Darcy’s law.
 
 ## Simulation Snapshot
 

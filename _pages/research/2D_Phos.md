@@ -8,13 +8,24 @@ author_profile: true
 
 [← Back to Research]({{ '/research/' | relative_url }})
 
-I investigated the directional dependence of tensile and shear behavior in monolayer black phosphorene using molecular dynamics.
+## Research question
 
-## Approach and findings
+How do defect geometry and atomic structure influence tensile anisotropy and shear response in monolayer black phosphorene?
 
-- Analyzed stress–strain response and deformation along different crystallographic directions.
-- Studied the influence of atomic defects on shear modulus and fracture strain.
-- Linked defect populations and the anisotropic atomic structure to mechanical degradation.
+## My contribution
+
+- Simulated tensile and shear deformation along armchair and zigzag directions.
+- Compared pristine sheets with point vacancies and line-like defects of different orientations.
+- Extracted elastic slopes, peak stress, and failure strain, and examined strain-rate sensitivity.
+- Analyzed bond geometry, puckering, and local deformation to interpret directional response.
+
+## Principal findings
+
+Tensile stiffness was strongly anisotropic, while the two simple-shear responses were comparatively similar. Point defects reduced strength and moduli without substantially removing tensile anisotropy. An armchair-oriented line defect changed the tensile anisotropy more strongly, demonstrating the importance of defect geometry.
+
+## Methods
+
+LAMMPS molecular dynamics; tensile and simple-shear loading; defect construction; virial stress and stress–strain analysis; atomistic visualization and lattice-dynamics comparisons.
 
 ## Simulation visualizations
 

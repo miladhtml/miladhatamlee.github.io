@@ -5,9 +5,16 @@ description: "Molecular simulation research by Seyed Milad Hatamlee on CO2 and w
 permalink: /research/zeolite-13x/
 author_profile: true
 ---
+
 [← Back to Research]({{ '/research/' | relative_url }})
 
-## Overview
+## Project status
+
+**Ongoing research.** This page presents the project objectives and representative configurations; detailed quantitative results are being prepared for publication.
+
+## Research question
+
+How do confinement and pore structure affect the adsorption and transport of CO₂ and water in zeolite 13X?
 
 This project investigates the adsorption and transport behavior of CO₂ and water in nanoporous materials, with a focus on Zeolite 13X. Using molecular simulations, this work aims to understand how confinement and pore structure influence fluid distribution, adsorption mechanisms, and transport dynamics at the nanoscale.
 
@@ -30,7 +37,7 @@ This work explores how these factors influence adsorption and transport of CO₂
 
 ---
 
-## Research Focus
+## Research objectives
 
 - Understanding adsorption mechanisms in nanoporous materials  
 - Studying the interaction between CO₂, water, and pore surfaces  

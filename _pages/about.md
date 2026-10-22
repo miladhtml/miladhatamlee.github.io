@@ -2,7 +2,7 @@
 layout: single
 title: "Seyed Milad Hatamlee"
 seo_title: "Seyed Milad Hatamlee | Computational Materials Scientist"
-description: "Milad Hatamlee, Ph.D., is a computational materials scientist in Palo Alto working on molecular simulation, thermodynamics, and nanoscale transport."
+description: "Milad Hatamlee studies nanoscale heat transfer, atomistic mechanics, and confined-fluid thermodynamics using molecular simulation and data-driven modeling."
 permalink: /
 author_profile: true
 ---
@@ -11,21 +11,28 @@ author_profile: true
 
 **Molecular insight. Engineering understanding.**
 
-I am Seyed Milad Hatamlee, a mechanical engineer and computational materials researcher based in Palo Alto, California. I earned my Ph.D. in Mechanical Engineering at the University at Buffalo in 2026, working on the thermodynamics and transport of small molecules under nanoconfinement.
+I am Seyed Milad Hatamlee, a computational materials researcher and mechanical engineer based in Palo Alto, California. I earned my Ph.D. at the University at Buffalo in 2026. My research uses molecular dynamics, Monte Carlo simulation, lattice dynamics, and thermodynamic modeling to investigate heat transfer, mechanical response, and fluid behavior at the nanoscale.
 
-I build Computational models and machine-learning models that predict how fluids and materials behave at the nanoscale, where bulk thermodynamics stops working and continuum models can be off by 200%.
+I develop and validate atomistic models, automate simulation workflows, and analyze how chemistry, defects, interfaces, and confinement influence material properties. I also use regression and numerical optimization to identify structure–property relationships and calibrate physical models against molecular simulation data.
 
 <p class="profile-actions"><a class="btn btn--primary" href="{{ '/research/' | relative_url }}">Explore my research</a> <a class="btn" href="{{ '/files/Hatamlee_CV_up.pdf' | relative_url }}">Download CV (PDF)</a></p>
 
 ## Research focus
 
-- **Confined fluids and thermodynamics:** water and CO₂ transport, adsorption, binary-mixture phase behavior, and modified equations of state.
-- **Thermal transport and interfaces:** heat conduction in graphene polymorphs, interfacial thermal conductance, and relationships between atomic structure and transport.
-- **Computational materials modeling:** molecular dynamics, Monte Carlo methods, density functional theory, and machine-learning interatomic potentials.
+- **Confined fluids and thermodynamics:** pressure-driven water and CO₂ transport, adsorption, binary-mixture phase equilibrium, and equation-of-state modeling.
+- **Thermal transport and interfaces:** heat conduction in two-dimensional materials, interfacial thermal conductance, and vibrational mechanisms.
+- **Atomistic mechanics and adhesion:** tensile and shear response, defects, surface termination, and mineral–water interfaces.
+- **Data-driven physical modeling:** regression-based structure–property relationships, parameter estimation, numerical optimization, and simulation workflow automation.
+
+## Selected research contributions
+
+- **Simulation workflow development:** Automated submission and analysis supporting approximately **1,000 confined-fluid simulations**, with benchmarking and data collection completed in seven months.
+- **Interfacial heat transfer:** Combined non-equilibrium molecular dynamics and lattice dynamics across **15 two-dimensional interfaces** to investigate how localized interfacial vibrations relate to thermal conductance.
+- **Thermodynamic model calibration:** Calibrated attraction and covolume corrections in a modified Peng–Robinson model, reducing normalized phase-envelope RMSE by **27–61% against Monte Carlo reference data at the fitted conditions**.
 
 ## How I work
 
-I combine physics-based models with reproducible simulation and analysis workflows. My tools include LAMMPS, Towhee, VASP, Quantum ESPRESSO, Python, and MATLAB, with experience in active-learning interatomic potentials and finite-element modeling in Abaqus.
+I use LAMMPS and Towhee for molecular simulation, GULP for lattice dynamics, and Python and MATLAB for workflow automation, analysis, regression, and optimization. I use density functional theory with VASP and Quantum ESPRESSO for structural relaxation and geometry optimization of initial atomistic models. My work emphasizes validation, sensitivity analysis, and physical interpretation.
 
 ## Recent work
 

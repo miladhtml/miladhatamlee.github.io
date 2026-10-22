@@ -1,24 +1,35 @@
 ---
 layout: single
-title: "Graphene Polymorphs: Thermal and Mechanical Behavior"
-description: "Seyed Milad Hatamlee studies thermal transport in graphene polymorphs and compounds, from carbon nitride to graphdiyne, using atomistic simulation."
+title: "Thermal Transport in Graphene Polymorphs and Compounds"
+description: "Seyed Milad Hatamlee compares thermal transport across 15 carbon-based 2D materials using NEMD, finite-size analysis, and regression-based structure–property analysis."
 permalink: /research/Graphene_Polymorphs/
 author_profile: true
 ---
+
 [← Back to Research]({{ '/research/' | relative_url }})
 
+## Research question
 
-## Overview
+How do atomic structure and bonding influence heat conduction across related two-dimensional carbon-based materials?
 
-This research focuses on understanding thermal transport and mechanical behavior in two-dimensional (2D) materials using molecular dynamics simulations. The work explores how atomic structure, bonding, and interfaces influence material properties at the nanoscale, with applications in nanoelectronics, thermal management, and advanced materials design.
+## My contribution
 
----
+- Compared thermal conductivity across **15 target graphene-related materials**, with graphene as an additional benchmark, using a common molecular simulation approach.
+- Performed length and orientation sweeps, repeated simulations, and inverse-length fitting to estimate infinite-length conductivity.
+- Calculated elastic response, heat capacity, and vibrational density of states to examine possible explanations for conductivity trends.
+- Used regression-based correlations to relate thermal conductivity to properties such as density and Young’s modulus.
 
-## Graphene Polymorphs and Carbon-Based Structures
+## Principal findings
 
-- Investigated thermal conductivity across various graphene-derived lattices
-- Identified strong dependence of thermal transport on lattice structure and bonding
-- Established structure–property relationships governing heat conduction​
+The studied carbon nitrides, carbon borides, and graphdiyne structures showed large differences in thermal conductivity, including directional anisotropy in selected lattices. A common-method comparison helped separate structural trends from differences caused by simulation setup.
+
+The fitted structure–property relationships summarize this dataset; they do not establish universal laws or validated predictions for unseen materials.
+
+## Methods
+
+LAMMPS classical MD and NEMD; finite-size analysis and conductivity extrapolation; stress–strain analysis; energy–temperature fitting; vibrational density of states; regression and uncertainty assessment.
+
+## Results and structures
 
 ![Graphene structures]({{ '/_pages/images/Barchart.png' | relative_url }})
 

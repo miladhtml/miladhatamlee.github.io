@@ -1,20 +1,35 @@
 ---
 layout: single
-title: "2D Heterostructures"
-description: "Seyed Milad Hatamlee investigates interfacial thermal conductance across 15 carbon-based heterostructures using molecular dynamics and lattice dynamics."
+title: "Interfacial Heat Transfer in 2D Heterostructures"
+description: "Seyed Milad Hatamlee combines NEMD, GULP lattice dynamics, and vibrational-mode analysis to explain thermal conductance across 15 two-dimensional interfaces."
 permalink: /research/2D_Hetero/
 author_profile: true
 ---
 
 [← Back to Research]({{ '/research/' | relative_url }})
 
-I investigated interfacial thermal conductance across **15 carbon-based heterostructures**, combining non-equilibrium molecular dynamics with lattice-dynamics analysis.
+## Research question
 
-## Approach and findings
+Which vibrational features explain differences in thermal conductance across two-dimensional material interfaces?
 
-- Computed heat transfer across interfaces between two-dimensional carbon-based structures.
-- Examined vibrational coupling and localized interfacial modes.
-- Found that localized interfacial vibrational modes provide a stronger descriptor of thermal conductance than phonon density-of-states overlap alone.
+## My contribution
+
+- Computed interfacial thermal conductance across **15 lateral interfaces** between carbon-based two-dimensional materials using non-equilibrium molecular dynamics.
+- Combined the heat-transfer simulations with GULP lattice-dynamics calculations.
+- Analyzed the spatial distribution of vibrational eigenvectors to classify modes and quantify localization near interfaces.
+- Compared interfacial-mode populations with bulk phonon density-of-states overlap and evaluated empirical conductance correlations.
+
+## Principal findings
+
+Within the studied interface set, bulk density-of-states overlap did not provide a useful overall correlation with conductance. A larger population of localized interfacial modes correlated with lower conductance, making interface-specific vibrational analysis a more informative descriptor.
+
+The regression describes the investigated dataset; it is not an independently validated predictor for arbitrary interfaces.
+
+## Methods
+
+LAMMPS NEMD; GULP lattice dynamics; Python eigenvector processing and mode classification; density-of-states analysis; finite-size and sensitivity checks; regression-based descriptor analysis.
+
+## Simulation setup and results
 
 <figure style="display: block; text-align: center;">
   <img src="{{ '/_pages/images/Figs_inter.png' | relative_url }}" alt="Simulation cell with hot and cold thermal baths, fixed atoms at the ends, and a heterostructure interface." class="align-center" style="width: auto;">

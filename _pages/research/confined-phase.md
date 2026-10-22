@@ -1,47 +1,33 @@
 ---
 layout: single
 title: "Confined Phase Behavior of CO₂/Hydrocarbon Mixtures"
-description: "Seyed Milad Hatamlee studies CO2 and hydrocarbon phase equilibrium in nanopores using Monte Carlo simulation and modified equations of state."
+description: "Seyed Milad Hatamlee combines Monte Carlo simulation, workflow automation, and equation-of-state calibration to study confined CO2/hydrocarbon phase equilibrium."
 permalink: /research/confined-phase/
 author_profile: true
 ---
+
 [← Back to Research]({{ '/research/' | relative_url }})
 
-## Overview
+## Research question
 
-This project focuses on understanding phase behavior of CO₂ and hydrocarbon mixtures under nanoscale confinement using molecular simulation and thermodynamic modeling. Confinement significantly alters phase equilibrium compared to bulk systems, which has important implications for subsurface energy systems, carbon storage, and hydrocarbon recovery.
+How does nanoscale confinement change vapor–liquid equilibrium, and how can molecular simulation improve a compact thermodynamic model for confined mixtures?
 
----
+## My contribution
 
-## Motivation
+- Applied Gibbs ensemble Monte Carlo (GEMC) and gauge-GCMC to study bulk and confined behavior of CO₂/n-heptane and methane/n-heptane mixtures.
+- Built automated submission and post-processing workflows supporting a dataset of approximately 1,000 confined-fluid simulations.
+- Diagnosed limitations of Peng–Robinson models that adjust critical properties or only the binary interaction coefficient.
+- Calibrated corrections to both attraction and covolume using genetic optimization against Monte Carlo reference data.
 
-Accurate prediction of phase behavior in nanoporous environments remains a major challenge in thermodynamics. Classical equations of state (EoS), developed for bulk systems, often fail to capture confinement-induced effects such as shifted critical properties, altered phase boundaries, and enhanced adsorption.
----
+## Principal findings
 
-## Approach
+Confinement lowered bubble-point pressures, raised dew-point pressures, and narrowed the sampled two-phase envelopes. Correcting both attraction and covolume improved the description of the confined phase boundaries, reducing normalized phase-envelope RMSE by **27–61% against Monte Carlo reference data at the fitted conditions**.
 
-- Monte Carlo simulations:
-  - Grand Canonical Monte Carlo (GCMC)  
-  - Gibbs Ensemble Monte Carlo (GEMC)  
+The coefficients were fitted independently at selected temperatures for a **4.2 nm hydroxylated silica slit**. These results describe calibration at those conditions; interpolation, extrapolation, other pore sizes, and unseen surface chemistries were not validated.
 
-- Modeling of binary mixtures:
-  - CO₂ / hydrocarbon systems  
-  - Phase equilibrium under confinement  
+## Methods
 
-- Development of modified equations of state:
-  - Extension of Peng–Robinson EoS  
-  - Incorporation of confinement effects through parameter adjustment  
-
----
-
-## Research Focus
-
-- Investigating how confinement alters vapor–liquid equilibrium (VLE)  
-- Studying shifts in phase boundaries and critical behavior  
-- Evaluating the limitations of classical EoS under nanoscale conditions  
-- Developing improved predictive models for confined systems  
-
----
+Towhee molecular Monte Carlo; GEMC and gauge-GCMC; thermodynamic integration and coexistence analysis; modified Peng–Robinson modeling; genetic optimization; automated simulation and data analysis.
 
 ## Simulation Snapshots
 
