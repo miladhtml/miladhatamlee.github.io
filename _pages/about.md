@@ -15,7 +15,7 @@ I am Seyed Milad Hatamlee, a computational materials researcher and mechanical e
 
 I develop and validate atomistic models, automate simulation workflows, and analyze how chemistry, defects, interfaces, and confinement influence material properties. I also use regression and numerical optimization to identify structure–property relationships and calibrate physical models against molecular simulation data.
 
-<p class="profile-actions"><a class="btn btn--primary" href="{{ '/research/' | relative_url }}">Explore my research</a> <a class="btn" href="{{ '/files/Hatamlee_CV_up.pdf' | relative_url }}">Download CV (PDF)</a></p>
+<p class="profile-actions"><a class="btn btn--primary" href="{{ '/research/' | relative_url }}">Explore my research</a> <a class="btn" href="{{ '/cv/' | relative_url }}">See my CV</a></p>
 
 ## Research focus
 
