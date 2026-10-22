@@ -74,6 +74,8 @@ Tensile and shear deformation, defect sensitivity, and the atomic origins of dir
 
 Atomistic modeling of calcite–mineral interfaces and hydration, explaining observations from collaborators’ laboratory measurements.
 
+![Mineral Adhesio]({{ '/_pages/images/biocem1.png' | relative_url }})
+
 [Explore mineral adhesion →]({{ '/research/mineral-adhesion/' | relative_url }})
 
 ## Ongoing research
