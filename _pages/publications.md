@@ -8,9 +8,6 @@ author_profile: true
 
 See [Google Scholar](https://scholar.google.com/citations?hl=en&user=vp2BeBkAAAAJ) for citation metrics and additional links.
 
-My publications also appear under the name **S. M. Hatam-Lee**.
-
-## Original research
 
 1. **Hatamlee SM**, Hoepfner M, Elmehlawy M, Lu M, Li Z, Li J. *Monte Carlo Informed Modification of Peng-Robinson Equation of State for CO₂/Hydrocarbon Mixtures Confined in Nanopores*. **Accepted, Langmuir, 2026.**
 
@@ -22,19 +19,15 @@ My publications also appear under the name **S. M. Hatam-Lee**.
 
 5. **Hatam-Lee SM**, Jabbari F, Rajabpour A. *Interfacial thermal conductance between gold and SiO₂: A molecular dynamics study*. Nanoscale and Microscale Thermophysical Engineering, 26(1):40–51, 2022. [Read the article](https://doi.org/10.1080/15567265.2022.2066585).
 
-6. **Hatam-Lee SM**, Gordiz K, Rajabpour A. *Lattice-dynamics-based descriptors for interfacial heat transfer across two-dimensional carbon-based nanostructures*. Journal of Applied Physics, 2021.
+6. Arabha S, Aghbolagh ZS, Ghorbani K, **Hatam-Lee SM**, Rajabpour A. *Recent advances in lattice thermal conductivity calculation using machine-learning interatomic potentials*. Journal of Applied Physics, 130(21):210903, 2021. [Read the article](https://doi.org/10.1063/5.0069443).
 
-7. **Hatam-Lee SM**, Esfandiar A, Rajabpour A. *Mechanical behaviors of titanium nitride and carbide MXenes: A molecular dynamics study*. Applied Surface Science, 566:150633, 2021.
+7. **Hatam-Lee SM**, Gordiz K, Rajabpour A. *Lattice-dynamics-based descriptors for interfacial heat transfer across two-dimensional carbon-based nanostructures*. Journal of Applied Physics, 2021.
 
-8. **Hatam-Lee SM**, Peer-Mohammadi H, Rajabpour A. *Tuning shear mechanical properties and tensile strength anisotropy of monolayer black phosphorene: A molecular dynamics study*. Materials Today Communications, 26:101796, 2021.
+8. **Hatam-Lee SM**, Esfandiar A, Rajabpour A. *Mechanical behaviors of titanium nitride and carbide MXenes: A molecular dynamics study*. Applied Surface Science, 566:150633, 2021.
 
-9. **Hatam-Lee SM**, Rajabpour A, Volz S. *Thermal conductivity of graphene polymorphs and compounds: From C₃N to graphdiyne lattices*. Carbon, 161:816–826, 2020. [Read the article](https://doi.org/10.1016/j.carbon.2020.02.007).
+9. **Hatam-Lee SM**, Peer-Mohammadi H, Rajabpour A. *Tuning shear mechanical properties and tensile strength anisotropy of monolayer black phosphorene: A molecular dynamics study*. Materials Today Communications, 26:101796, 2021.
 
-## Review / perspective
-
-1. Arabha S, Aghbolagh ZS, Ghorbani K, **Hatam-Lee SM**, Rajabpour A. *Recent advances in lattice thermal conductivity calculation using machine-learning interatomic potentials*. Journal of Applied Physics, 130(21):210903, 2021. [Read the article](https://doi.org/10.1063/5.0069443).
-
-**My contribution:** The paragraph discussing non-equilibrium molecular dynamics (NEMD) methods.
+10. **Hatam-Lee SM**, Rajabpour A, Volz S. *Thermal conductivity of graphene polymorphs and compounds: From C₃N to graphdiyne lattices*. Carbon, 161:816–826, 2020. [Read the article](https://doi.org/10.1016/j.carbon.2020.02.007).
 
 ## Conference presentations
 
