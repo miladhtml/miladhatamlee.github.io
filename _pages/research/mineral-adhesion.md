@@ -32,7 +32,7 @@ LAMMPS classical MD; dry and hydrated mineral-interface models; binding-energy a
 ## Simulation setup and Results
 
 <figure style="display: block; text-align: center;">
-  <img src="{{ '/_pages/images/biocem2.png' | relative_url }}">
+  <img src="{{ '/_pages/images/biocem2.png' | relative_url }}" style="width: 50%; height: auto;" />
   <figcaption>Relaxed configuration of precipitates (ww = 66%) on a) Fe2O3, b) FeS2, and c) SiO2. Atoms are shown as color-coded circles. </figcaption>
 </figure>
 
