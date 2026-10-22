@@ -30,10 +30,10 @@ This project connects atomistic interface structure with thermal resistance and 
 
 LAMMPS classical MD and NEMD; amorphous-structure preparation; temperature-profile and heat-flow analysis; vibrational density of states; parameter sweeps; repeated simulations and analytical-model comparison.
 
-## Simulation setup and results
+## Simulation results
 
 <figure style="display: block; text-align: center;">
-  <img src="{{ '/_pages/images/gold_Silica_res.png' | relative_url }}">
+  <img src="{{ '/_pages/images/gold_Silica_res.png' | relative_url }}" style="width: 60%; height: auto;" />
 </figure>
 
 ## Related publication
