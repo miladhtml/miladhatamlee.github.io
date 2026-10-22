@@ -29,6 +29,13 @@ The simulations examined adhesion between existing mineral phases. They did not 
 
 LAMMPS classical MD; dry and hydrated mineral-interface models; binding-energy and adhesion analysis; interaction-energy decomposition; density profiles; repeated simulations and atomistic visualization.
 
+## Simulation setup and Results
+
+<figure style="display: block; text-align: center;">
+  <img src="{{ '/_pages/images/biocem2.png' | relative_url }}">
+  <figcaption>Relaxed configuration of precipitates (ww = 66%) on a) Fe2O3, b) FeS2, and c) SiO2. Atoms are shown as color-coded circles. </figcaption>
+</figure>
+
 ## Related publication
 
 Ghasemi H, Hatam-Lee SM, Tirkolaei HK, Yazdani H. *Biocementation of soils of different surface chemistries via enzyme induced carbonate precipitation (EICP): An integrated laboratory and molecular dynamics study*. Biophysical Chemistry, 284:106793, 2022.
