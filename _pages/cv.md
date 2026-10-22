@@ -49,4 +49,4 @@ My background combines molecular simulation of materials and confined fluids wit
 
 **Abaqus / finite-element analysis:** Academic projects involving stress concentration, crack propagation, thermal expansion, contact, and stress–strain analysis.
 
-**MTP-based interatomic potentials:** Preliminary exploration of MTP-based potentials to reproduce classical-MD results; the project was unfinished when I began my Ph.D.
+**MTP-based interatomic potentials:** Trained moment tensor interatomic potentials on sparse DFT datasets using active learning for thermo-mechanical property prediction
