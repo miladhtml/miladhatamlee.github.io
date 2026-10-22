@@ -26,7 +26,7 @@ I develop and validate atomistic models, automate simulation workflows, and anal
 
 ## Selected research contributions
 
-- **Simulation workflow development:** Automated submission and analysis supporting approximately **1,000 confined-fluid simulations**, with benchmarking and data collection completed in seven months.
+- **Simulation workflow development:** Automated submission and analysis supporting high throuput confined-fluid simulations, with benchmarking and data collection.
 - **Interfacial heat transfer:** Combined non-equilibrium molecular dynamics and lattice dynamics across **15 two-dimensional interfaces** to investigate how localized interfacial vibrations relate to thermal conductance.
 - **Thermodynamic model calibration:** Calibrated attraction and covolume corrections in a modified Peng–Robinson model, reducing normalized phase-envelope RMSE by **27–61% against Monte Carlo reference data at the fitted conditions**.
 
