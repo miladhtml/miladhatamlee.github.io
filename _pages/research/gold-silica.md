@@ -30,6 +30,12 @@ This project connects atomistic interface structure with thermal resistance and 
 
 LAMMPS classical MD and NEMD; amorphous-structure preparation; temperature-profile and heat-flow analysis; vibrational density of states; parameter sweeps; repeated simulations and analytical-model comparison.
 
+## Simulation setup and results
+
+<figure style="display: block; text-align: center;">
+  <img src="{{ '/_pages/images/gold_Silica_res.png' | relative_url }}">
+</figure>
+
 ## Related publication
 
 Hatam-Lee SM, Jabbari F, Rajabpour A. *Interfacial thermal conductance between gold and SiO₂: A molecular dynamics study*. Nanoscale and Microscale Thermophysical Engineering, 26(1):40–51, 2022. [Read the article](https://doi.org/10.1080/15567265.2022.2066585).
