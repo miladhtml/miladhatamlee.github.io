@@ -48,6 +48,8 @@ NEMD and GULP lattice dynamics across 15 interfaces, linking conductance to loca
 
 Atomistic analysis of crystalline and amorphous silica interfaces with gold, examining temperature, interface coupling, and vibrational mechanisms.
 
+![Gold–Silica Interface]({{ '/_pages/images/gold_Silica.png' | relative_url }})
+
 [Explore gold–silica interfaces →]({{ '/research/gold-silica/' | relative_url }})
 
 ## Atomistic mechanics and adhesion
