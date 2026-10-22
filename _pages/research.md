@@ -48,7 +48,7 @@ NEMD and GULP lattice dynamics across 15 interfaces, linking conductance to loca
 
 Atomistic analysis of crystalline and amorphous silica interfaces with gold, examining temperature, interface coupling, and vibrational mechanisms.
 
-![Gold–Silica Interface]({{ '/_pages/images/gold_Silica.png' | relative_url }})
+![Gold–silica interface schematic with an enlarged atomistic view of a planar gold–silica contact]({{ '/_pages/images/gold_Silica.png' | relative_url }})
 
 [Explore gold–silica interfaces →]({{ '/research/gold-silica/' | relative_url }})
 
@@ -74,7 +74,7 @@ Tensile and shear deformation, defect sensitivity, and the atomic origins of dir
 
 Atomistic modeling of calcite–mineral interfaces and hydration, explaining observations from collaborators’ laboratory measurements.
 
-![Mineral Adhesio]({{ '/_pages/images/biocem1.png' | relative_url }})
+![Biocementation schematic, collaborators’ compression-test results, and molecular simulations of mineral adhesion versus interfacial water content]({{ '/_pages/images/biocem1.png' | relative_url }})
 
 [Explore mineral adhesion →]({{ '/research/mineral-adhesion/' | relative_url }})
 

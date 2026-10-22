@@ -32,8 +32,9 @@ LAMMPS classical MD and NEMD; amorphous-structure preparation; temperature-profi
 
 ## Simulation results
 
-<figure style="display: block; text-align: center;">
-  <img src="{{ '/_pages/images/gold_Silica_res.png' | relative_url }}" style="width: 60%; height: auto;" />
+<figure class="research-figure" style="--figure-width: 575px;">
+  <img src="{{ '/_pages/images/gold_Silica_res.png' | relative_url }}" alt="Vibrational density of states of gold, crystalline silica, and amorphous silica, with a table of interfacial thermal conductance and resistance." width="575" height="682" />
+  <figcaption>Vibrational density of states of gold, crystalline silica, and amorphous silica, with corresponding interfacial thermal conductance and resistance. The amorphous-silica interface exhibits higher conductance under the studied conditions.</figcaption>
 </figure>
 
 ## Related publication

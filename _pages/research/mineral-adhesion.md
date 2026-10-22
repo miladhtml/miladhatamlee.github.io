@@ -31,9 +31,9 @@ LAMMPS classical MD; dry and hydrated mineral-interface models; binding-energy a
 
 ## Simulation setup and Results
 
-<figure style="display: block; text-align: center;">
-  <img src="{{ '/_pages/images/biocem2.png' | relative_url }}" style="width: 50%; height: auto;" />
-  <figcaption>Relaxed configuration of precipitates (ww = 66%) on a) Fe2O3, b) FeS2, and c) SiO2. Atoms are shown as color-coded circles. </figcaption>
+<figure class="research-figure" style="--figure-width: 352px;">
+  <img src="{{ '/_pages/images/biocem2.png' | relative_url }}" alt="Relaxed hydrated calcite configurations on hematite, marcasite, and quartz, with atom species identified by color." width="352" height="638" />
+  <figcaption>Relaxed calcite–mineral configurations at 66% interfacial water content: (a) hematite (Fe₂O₃), (b) marcasite (FeS₂), and (c) quartz (SiO₂). Atom colors identify the species shown in the legend.</figcaption>
 </figure>
 
 ## Related publication

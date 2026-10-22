@@ -8,6 +8,10 @@
 .page__content a:focus-visible,.masthead a:focus-visible {outline:3px solid currentColor;outline-offset:4px}
 @media(max-width:600px){.page__title{font-size:1.65rem}.profile-actions .btn{width:100%}}
 
+/* Keep research figures readable on small screens without enlarging their pixels. */
+.page__content .research-figure {display:block;text-align:center}
+.page__content .research-figure img {display:block;width:100%;max-width:var(--figure-width,100%);height:auto;margin:0 auto 1em}
+
 /* Match visible channel heights, compensating for transparent GIF padding. */
 .phase-comparison {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:clamp(.5rem,2vw,1.5rem);margin:1.5rem 0}
 .phase-comparison__frame {position:relative;aspect-ratio:1.15;overflow:hidden}
