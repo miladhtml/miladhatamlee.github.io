@@ -20,3 +20,8 @@
 /* Hide only the unused transparent rows; keep the original GIF and its scale. */
 .zeolite-animation-crop {position:relative;overflow:hidden;width:100%;max-width:1600px;aspect-ratio:1600 / 101;margin:1.5rem 0}
 .page__content .zeolite-animation-crop img {position:absolute;top:0;left:0;display:block;width:100%;height:auto;max-width:none;margin:0;border-radius:0;transform:translateY(-47.0833333333%)}
+
+/* Display the current CV PDF directly, with room for the browser viewer. */
+.page__content .cv-pdf-viewer {display:block;width:100%;height:85vh;min-height:600px;border:1px solid var(--global-border-color);border-radius:8px;background:#fff}
+.cv-pdf-links {font-size:.8em;margin-top:.75rem}
+@media(max-width:600px){.page__content .cv-pdf-viewer{height:80vh;min-height:450px}}
